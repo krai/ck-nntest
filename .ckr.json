@@ -5,14 +5,14 @@
   "data_name": "ck-nntest",
   "dict": {
     "shared": "git",
-    "url": " https://github.com/dividiti/ck-nntest",
+    "url": " https://github.com/krai/ck-nntest",
     "repo_deps": [
        {
          "repo_uoa": "ck-crowdtuning"
        },
        {
          "repo_uoa": "ck-tensorflow",
-         "repo_url": "https://github.com/dividiti/ck-tensorflow"
+         "repo_url": "https://github.com/krai/ck-tensorflow"
        },
        {
          "repo_uoa": "ck-math"
